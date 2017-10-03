@@ -14,7 +14,7 @@ String versionName = BuildConfig.VERSION_NAME;
 import com.yourpackage.BuildConfig; <br />
 .... <br />
 .... <br />
-String version = BuildConfig.VERSION_NAME; <br /> 
+String version = BuildConfig.<b>VERSION_NAME</b>; <br /> 
 System.out.println("Versi Android: " + version); <br />
 
 ## Sumber
