@@ -11,11 +11,11 @@ String versionName = BuildConfig.VERSION_NAME;
 <img src="https://github.com/moeslimdecoded/get-version-on-my-project-android/blob/master/result.png" />
 
 ## Sourcecode
-import com.yourpackage.BuildConfig;
-....
-....
-String version = BuildConfig.VERSION_NAME;
-System.out.println("Versi Android: " + version);
+#### import com.yourpackage.BuildConfig;
+#### ....
+#### ....
+#### String version = BuildConfig.VERSION_NAME;
+#### System.out.println("Versi Android: " + version);
 
 ## Sumber
 https://stackoverflow.com/questions/4616095/how-to-get-the-build-version-number-of-your-android-application
